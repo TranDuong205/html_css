@@ -1,0 +1,25 @@
+#a{
+    padding-top: 15px;
+    width: 370px;
+    border-style: ridge;
+}
+#b{
+    
+    width:300px;
+    background-color: grey;
+    text-align: left;
+}
+#c{
+    width:200px;
+    background-color: #fff;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    margin-left: 40px;
+}
+#img{
+    width:150px;
+    padding-top:20px ;
+    padding-left: 27px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
